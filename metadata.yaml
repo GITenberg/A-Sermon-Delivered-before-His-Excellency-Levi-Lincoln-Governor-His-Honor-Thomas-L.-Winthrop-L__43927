@@ -1,0 +1,30 @@
+_repo: A-Sermon-Delivered-before-His-Excellency-Levi-Lincoln-Governor-His-Honor-Thomas-L.-Winthrop-L__43927
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43927-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Walker, James
+    birthdate: 1794
+    deathdate: 1874
+    gutenberg_agent_id: '31649'
+    url: http://www.gutenberg.org/2009/agents/31649
+    wikipedia: http://en.wikipedia.org/wiki/James_Walker_%28Harvard%29
+description: ''
+gutenberg_issued: '2013-10-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43927'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Election sermons -- Massachusetts'
+- !lcc 'BV'
+title: A Sermon Delivered before His Excellency Levi Lincoln, Governor, His Honor
+  Thomas L. Winthrop, Lieutenant Governor, the Hon. Council, the Senate, and House
+  of Representatives of the Commonwealth of Massachusetts, on the day of General Election,
+  May 28, 1828
+url: http://www.gutenberg.org/ebooks/43927
