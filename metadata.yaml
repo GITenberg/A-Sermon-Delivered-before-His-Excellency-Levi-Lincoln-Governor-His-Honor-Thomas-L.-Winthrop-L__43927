@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31649
     wikipedia: http://en.wikipedia.org/wiki/James_Walker_%28Harvard%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43927#A-Sermon-Delivered-before-His-Excellency-Levi-Lincoln-Governor-His-Honor-Thomas-L.-Winthrop-L_
 gutenberg_issued: '2013-10-10'
 gutenberg_type: Text
 identifiers:
